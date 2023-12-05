@@ -1,25 +1,25 @@
 # Module-1-Challenge
 
-Description
+Description:
 This project aims to apply accessibility standards to a given dummy .html site belonging to a "client".
 
-Usage
+Usage:
 Using accessibility practices, the .html site can be better read and understood by search engines for metadata and accessible features such as screen reading.
 
-Support
+Support:
 Contact via email at ********@gmail.com.
 
-Roadmap
+Roadmap:
 Responsive sticky header.
 
-Contributing
+Contributing:
 N/A
 
-Authors and acknowledgment
+Authors and acknowledgement:
 Your's truly, with the help of the EdX Boot Camp Team!!
 
-License
+License:
 
 
-Project status
+Project status:
 Complete - potential plan to loop back and iterate.
