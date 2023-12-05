@@ -19,6 +19,7 @@ Authors and acknowledgement:
 Your's truly, with the help of the EdX Boot Camp Team!!
 
 License:
+MIT License
 
 
 Project status:
